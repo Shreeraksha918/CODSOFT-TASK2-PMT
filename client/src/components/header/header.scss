@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color :rgb(180, 126, 231);
+    align-items: center;
+    height: 90px;
+    padding: 0 20px;
+
+    &__logo {
+        h3 {
+            color: white;
+            font-weight: 500;
+           
+        }
+    }
+
+    .button {
+        background-color: white;
+        font-weight: 500;
+    }
+
+
+}

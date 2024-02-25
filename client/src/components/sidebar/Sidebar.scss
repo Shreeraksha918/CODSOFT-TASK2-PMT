@@ -1,0 +1,13 @@
+.sidebar {
+    background-color: rgb(190, 188, 188);
+    height: 100vh;
+    padding: 1rem;
+    max-width: 15vw;
+
+    .list-item {
+        margin: 1rem 0;
+        color: black;
+        padding-left: 60px;
+        font-weight: 500;
+    }
+}
